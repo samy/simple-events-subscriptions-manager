@@ -1,4 +1,4 @@
-Outil de gestion d'inscriptions
+Events subscriptions manager
 ============================
 
 This little project starts as a monolithic event subscriptions manager.
